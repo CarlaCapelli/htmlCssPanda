@@ -1,0 +1,29 @@
+p {
+  color: rgb(77, 55, 26);
+
+  front-size: 16px;
+}
+h1 {
+  color: rgb(49, 6, 105);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h2 {
+  color: rgb(43, 109, 109);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  color: rgb(32, 28, 28);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.parrafoVerde {
+  color: rgb(13, 109, 13);
+  text-align: center;
+}
+#parrafoBordo {
+  color: rgb(112, 8, 8);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-color: rgb(214, 195, 156);
+}
